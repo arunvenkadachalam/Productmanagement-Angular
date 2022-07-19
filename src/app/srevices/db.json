@@ -1,0 +1,22 @@
+{
+  "productlist": [
+    {
+      "productname": "aaaaa",
+      "category": "Vegetables",
+      "freshness1": "Brand new",
+      "price": "6586",
+      "Comment": "nice",
+      "date": "2022-07-14T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productname": "ram",
+      "category": "Vegetables",
+      "freshness1": "Brand new",
+      "price": "454545",
+      "Comment": "afgtrzx ervwarsa  eaqfrvqaer",
+      "date": "2022-07-07T18:30:00.000Z",
+      "id": 7
+    }
+  ]
+}
